@@ -1,7 +1,7 @@
 
 ---
 
-[[1. Definición y propósito XD]]
+[[1. Definición y propósito]]
 
 ---
   
