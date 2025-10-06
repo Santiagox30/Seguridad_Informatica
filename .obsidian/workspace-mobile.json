@@ -11,17 +11,14 @@
             "id": "3f86c55b7c8f151b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "ISO-IEC 27001 vs NIST Cybersecurity Framework CSF.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "ISO-IEC 27001 vs NIST Cybersecurity Framework CSF"
             }
           }
         ]
@@ -167,9 +164,9 @@
   },
   "active": "3f86c55b7c8f151b",
   "lastOpenFiles": [
-    "Untitled 1.base",
-    "Untitled.canvas",
     "1. Definición y propósito.md",
+    "Untitled.canvas",
+    "Untitled 1.base",
     "Untitled.base",
     "2025-09-24.md",
     "Untitled"
