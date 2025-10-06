@@ -11,14 +11,17 @@
             "id": "3f86c55b7c8f151b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1. Definición y propósito.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "1. Definición y propósito"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -164,8 +167,10 @@
   },
   "active": "3f86c55b7c8f151b",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled.canvas",
     "1. Definición y propósito.md",
+    "Untitled.base",
     "2025-09-24.md",
     "Untitled"
   ]
